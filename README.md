@@ -18,7 +18,6 @@ Currently, I'm focused on building practical skills and projects that will help 
 * Python
 * Web Development
 * AI Automation (n8n)
-* Cybersecurity
 * Software Engineering
 * Database Systems
 
@@ -35,13 +34,12 @@ Currently, I'm focused on building practical skills and projects that will help 
 ### Frameworks & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,django,mysql,postgres,linux,docker" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,django,postgres" />
 </p>
 
 ### Currently Exploring
 
 * 🤖 AI Automation
-* 🔐 Cybersecurity
 * ☁️ Cloud Computing
 * 📊 Data Analysis
 * 📈 Investment Technology
@@ -52,10 +50,11 @@ Currently, I'm focused on building practical skills and projects that will help 
 
 Here are some of the projects I'm working on:
 
-* 🛒 **Burhanpedia** — Java-based e-commerce system
+* 🏃🏻‍♂️ Running Event Management Platform
+* 🗂️ Database-Driven Web Application
+* 💻 Django and Flutter Application
 * 🌐 Personal Web Projects
 * 🤖 AI Automation Workflows
-* 🔒 Cybersecurity Labs & CTF Writeups *(Coming Soon)*
 * 📊 Data Analysis Projects *(Coming Soon)*
 
 > More projects are on the way as I continue learning and building.
@@ -69,54 +68,7 @@ Here are some of the projects I'm working on:
 * Participate in hackathons and competitions
 * Learn AI Automation with n8n
 * Improve Web Development skills
-* Explore Cybersecurity
 * Land an internship or part-time software engineering role
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=emirbasuki&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emirbasuki&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=emirbasuki&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=emirbasuki&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</p>
-
----
-
-## 📚 Current Focus
-
-```text
-Building Projects ███████████░░ 80%
-
-Learning AI Automation ████████░░░ 70%
-
-Web Development ███████░░░░░ 60%
-
-Cybersecurity █████░░░░░░ 45%
-```
 
 ---
 
@@ -130,6 +82,17 @@ I'm always open to:
 * Tech discussions
 
 📫 Feel free to reach out!
+<p align="center">
+<a href="https://www.linkedin.com/in/USERNAME">
+<img src="https://skillicons.dev/icons?i=linkedin" height="48"/>
+</a>
+</p>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/emir-fadhil-basuki-803412300">
+www.linkedin.com/in/emir-fadhil-basuki
+</a>
+</p>
 
 ---
 
