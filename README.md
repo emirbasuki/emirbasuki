@@ -83,14 +83,8 @@ I'm always open to:
 
 📫 Feel free to reach out!
 <p align="center">
-<a href="https://www.linkedin.com/in/USERNAME">
-<img src="https://skillicons.dev/icons?i=linkedin" height="48"/>
-</a>
-</p>
-
-<p align="center">
 <a href="https://www.linkedin.com/in/emir-fadhil-basuki-803412300">
-www.linkedin.com/in/emir-fadhil-basuki
+<img src="https://skillicons.dev/icons?i=linkedin" height="48"/>
 </a>
 </p>
 
