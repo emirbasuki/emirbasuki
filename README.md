@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Emir Basuki
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Information+Systems+Student;Aspiring+Software+Engineer;Learning+AI+Automation+%26+Cybersecurity;Always+Building+Something+New+🚀" />
+  <img src="./assets/github-header-banner.png" alt="Banner">
 </p>
 
 ---
